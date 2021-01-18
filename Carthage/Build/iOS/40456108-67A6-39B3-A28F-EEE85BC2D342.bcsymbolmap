@@ -1,0 +1,35 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.0 (clang-1200.0.32.28)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.3.sdk
+iPhoneOS14.3.sdk
+/Users/joy/Library/Developer/Xcode/DerivedData/DateExtension-gmytgjrhrxlukbcfgmkrnknhmdcf/Build/Intermediates.noindex/ArchiveIntermediates/DateExtension/IntermediateBuildFilesPath/DateExtension.build/Release-iphoneos/DateExtension.build/DerivedSources/DateExtension_vers.c
+/Users/joy/Desktop/DateExtension
+_$s13DateExtensionAACABycfcTo
+__METACLASS_DATA__TtC13DateExtension13DateExtension
+__INSTANCE_METHODS__TtC13DateExtension13DateExtension
+__DATA__TtC13DateExtension13DateExtension
+_$s13DateExtensionMXM
+_symbolic So8NSObjectC
+_$s13DateExtensionAACMf
+_symbolic _____ 13DateExtensionAAC
+_$s13DateExtensionAACMF
+__swift_FORCE_LOAD_$_swiftUIKit_$_DateExtension
+__swift_FORCE_LOAD_$_swiftDarwin_$_DateExtension
+__swift_FORCE_LOAD_$_swiftFoundation_$_DateExtension
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_DateExtension
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_DateExtension
+__swift_FORCE_LOAD_$_swiftDispatch_$_DateExtension
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_DateExtension
+__swift_FORCE_LOAD_$_swiftCoreImage_$_DateExtension
+__swift_FORCE_LOAD_$_swiftMetal_$_DateExtension
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_DateExtension
+___swift_reflection_version
+_objc_classes
+<swift-imported-modules>
+Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)
+/Users/joy/Desktop/DateExtension/DateExtension/DateConvert.swift
+init
+<compiler-generated>
+$s13DateExtensionAACMa
+deinit
+convert

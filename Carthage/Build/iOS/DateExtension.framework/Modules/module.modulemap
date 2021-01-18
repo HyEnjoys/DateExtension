@@ -1,0 +1,11 @@
+framework module DateExtension {
+  umbrella header "DateExtension.h"
+
+  export *
+  module * { export * }
+}
+
+module DateExtension.Swift {
+    header "DateExtension-Swift.h"
+    requires objc
+}
